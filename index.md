@@ -1,12 +1,14 @@
-## Welcome to the website TZSL
+# Welcome to the website TZSL
 
-You can use the [editor on GitHub](https://github.com/tzsl/tzsl.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'am a webbuilder with Drupal, but I want to develop a litte bit, so I have to study **GIT** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have made 3 operational websites with drupal
+-[Link]multivocaal.nl
+-[Link]molendelastdrager.nl
+-[Link]dehoopwieringerwaard.nl
 
-### Markdown
+I use as theme _MAYO_. This theme is only available for version 7 and 8. Now i have made it compatible for version 9 but not in the right way, so I have to learn to do this with git
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
